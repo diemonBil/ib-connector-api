@@ -57,3 +57,6 @@ coverage.xml
 *.tar
 *.tgz
 docker-compose.override.yml
+
+# IBC credentials config
+ibc/resources/config.ini
